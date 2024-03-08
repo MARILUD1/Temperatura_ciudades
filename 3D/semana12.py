@@ -86,6 +86,7 @@ datostemperaturas = [
 ]
 
 
+
 provincia = input("Ingrese la provincia=")
 
 promedio_calc = calcula_dimensiontemperatura(datostemperaturas, 1, 0, 3)
